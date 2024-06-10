@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+// OUT_DIR ディレクトリ内に demo.rs ファイルが生成
+package demo;
+
+message DemoMessage {
+    string device_id = 1;
+    int32 value = 2;
+}
