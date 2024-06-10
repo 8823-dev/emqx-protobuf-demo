@@ -13,3 +13,5 @@
 [Get Started with EMQX](https://docs.emqx.com/en/emqx/latest/getting-started/getting-started.html#next-steps)
 
 [Crate rumqttc](https://docs.rs/rumqttc/latest/rumqttc/)
+
+[Protocol Buffers (Encoding)](https://protobuf.dev/programming-guides/encoding/)
